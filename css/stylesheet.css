@@ -1,0 +1,13 @@
+.header {
+   color: red;
+}
+
+.hidden {
+   display: none;
+   margin-left: 10px;
+ }
+ 
+ a:hover+div {
+   display: block;
+ }
+ 
