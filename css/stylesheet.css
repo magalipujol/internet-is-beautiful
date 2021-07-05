@@ -9,7 +9,15 @@
 
  /* TODO */
  .bg-primary {
-   background-image: url("imagen.svg");
-   background-color: aqua !important;
- }
- 
+   padding: 0;
+  }
+  
+  .title-header {
+    padding: 10%;
+    width: 100%;
+  }
+
+  * {
+    box-sizing: unset;
+  }
+  
