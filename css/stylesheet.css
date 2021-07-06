@@ -21,3 +21,19 @@
     box-sizing: unset;
   }
   
+  .bg-dark {
+    background-color: #8e3b0f!important;
+  }
+
+  .bg-light {
+    background-color: #f5f2f0 !important;
+  }
+
+  .lead {
+    color: #8e3b0f !important;
+  }
+
+#page-description {
+  color: white !important
+}
+  
