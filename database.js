@@ -26,6 +26,26 @@ let pages = [
                 link: "https://bulma.io/",
                 linkText: "Bulma",
                 description: "Bulma is a free, open source framework that provides ready-to-use frontend components that you can easily combine to build responsive web interfaces."
+            },
+            {
+                link: "https://cssreference.io/",
+                linkText: "CSS reference",
+                description: "A free visual guide to CSS."
+            },
+            {
+                link: "http://www.menucool.com/",
+                linkText: "Menucool",
+                description: "Web components for building beautiful websites. Plain HTML, CSS and JavaScript that integrate into any web application."
+            },
+            {
+                link: "https://www.frontendpractice.com/#top",
+                linkText: "Frontend practice",
+                description: "Take your frontend skills to the next level by recreating real websites."
+            },
+            {
+                link: "https://www.frontendmentor.io/challenges?sort=difficulty",
+                linkText: "Frontend mentor",
+                description: "Improve your front-end coding skills by building real projects."
             }
         ]
     },
@@ -65,6 +85,16 @@ let pages = [
                 link: "https://www.opendoodles.com/?ref=hiddentools",
                 linkText: "Open Doodles",
                 description: "A Free Set of Open-Source Illustrations!"
+            },
+            {
+                link: "https://html5up.net/",
+                linkText: "HTML5 Up",
+                description: "HTML5 site templates that are fully responsive, super cusotomizable and free."
+            },
+            {
+                link: "https://www.svgbackgrounds.com/#flat-mountains",
+                linkText: "SVG backgrounds",
+                description: "SVGs enable full-screen hi-res visuals with a file-size near 5KB and are well-supported by all modern browsers"
             }
         ]
     },
@@ -120,6 +150,21 @@ let pages = [
                 link: "https://alternativeto.net/",
                 linkText: "Alternative to",
                 description: "Reviews, comments and recommendations from users like yourself."
+            },
+            {
+                link: "https://app.diagrams.net/",
+                linkText: "Diagrams",
+                description: "App to make diagrams online, and export them as SVG or PNG files."
+            },
+            {
+                link: "https://visualgo.net/en",
+                linkText: "Visualgo",
+                description: "Page to visualize data structures and algorithms through animation."
+            },
+            {
+                link: "https://biorender.com/",
+                linkText: "Biorender",
+                description: "Create Professional Science Figures in Minutes."
             }
         ]
     }
