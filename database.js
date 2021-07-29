@@ -95,6 +95,11 @@ let pages = [
                 link: "https://www.svgbackgrounds.com/#flat-mountains",
                 linkText: "SVG backgrounds",
                 description: "SVGs enable full-screen hi-res visuals with a file-size near 5KB and are well-supported by all modern browsers"
+            },
+            {
+                link: "https://www.manypixels.co/gallery",
+                linkText: "Many Pixels",
+                description: "Discover new illustrations every week. Use them on landing pages, blog posts, newsletters, social media graphics and more!"
             }
         ]
     },
