@@ -120,6 +120,11 @@ let pages = [
                 link: "https://www.freecodecamp.org/news/build-a-portfolio-with-vuejs/#introduction",
                 linkText: "Build and deploy a portfolio",
                 description: "How to Build and Deploy a Portfolio with Vue.js Axios, the GitHub REST API, and Netlify"
+            },
+            {
+                link: "https://www.freecodecamp.org/news/code-a-dictionary-with-react-and-material-ui/",
+                linkText: "React and Material UI Course – Code a Dictionary",
+                description: "how to create a dictionary app with React and Material UI"
             }
         ]
     },
