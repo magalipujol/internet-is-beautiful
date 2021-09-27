@@ -16,7 +16,6 @@ function addWebpage (sectionID, link, linkText, description) {
     document.getElementById(sectionID).appendChild(newLink)
     document.getElementById(sectionID).appendChild(newDescription)
     document.getElementById(sectionID).appendChild(document.createElement('br'))
-    
 }
 
 // addWebpage ("webdev-content", "https://purecss.io/", "Pure.css", "A set of small, responsive CSS modules that you can use in every web project.")

@@ -100,6 +100,11 @@ let pages = [
                 link: "https://www.manypixels.co/gallery",
                 linkText: "Many Pixels",
                 description: "Discover new illustrations every week. Use them on landing pages, blog posts, newsletters, social media graphics and more!"
+            },
+            {
+                link: 'https://colorhunt.co/palettes',
+                linkText:'Color hunt',
+                description: 'blablabla'
             }
         ]
     },
