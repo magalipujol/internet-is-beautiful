@@ -46,6 +46,11 @@ let pages = [
                 link: "https://www.frontendmentor.io/challenges?sort=difficulty",
                 linkText: "Frontend mentor",
                 description: "Improve your front-end coding skills by building real projects."
+            },
+            {
+                link: "https://scrollmagic.io/",
+                linkText: 'Scroll Magic',
+                description: "ScrollMagic helps you to easily react to the user's current scroll position."
             }
         ]
     },
@@ -104,7 +109,7 @@ let pages = [
             {
                 link: 'https://colorhunt.co/palettes',
                 linkText:'Color hunt',
-                description: 'blablabla'
+                description: 'Color Palettes for Designers and Artists'
             }
         ]
     },
@@ -180,6 +185,11 @@ let pages = [
                 link: "https://biorender.com/",
                 linkText: "Biorender",
                 description: "Create Professional Science Figures in Minutes."
+            },
+            {
+                link: 'https://magicplaylist.co/#/?_k=rc9dcf',
+                linkText: 'Magic Playlists',
+                description: "Type your favorite song and create the perfect playlist"
             }
         ]
     }
