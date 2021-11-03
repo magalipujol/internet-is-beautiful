@@ -51,6 +51,11 @@ let pages = [
                 link: "https://scrollmagic.io/",
                 linkText: 'Scroll Magic',
                 description: "ScrollMagic helps you to easily react to the user's current scroll position."
+            },
+            {
+                link: 'https://refactoring.guru/es/design-patterns/',
+                linkText: 'Design patterns',
+                description: "A collection of design patterns."
             }
         ]
     },
