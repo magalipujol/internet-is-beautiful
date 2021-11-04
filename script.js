@@ -11,7 +11,7 @@ function addWebpage (sectionID, link, linkText, description) {
     newLink.target ="_blank"
     newLink.innerHTML = linkText
     newLink.classList.add("lead")
-    newDescription.innerHTML = description 
+    newDescription.innerHTML = description
     newDescription.classList.add("hidden")
     document.getElementById(sectionID).appendChild(newLink)
     document.getElementById(sectionID).appendChild(newDescription)

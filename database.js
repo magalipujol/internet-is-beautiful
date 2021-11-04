@@ -56,6 +56,11 @@ let pages = [
                 link: 'https://refactoring.guru/es/design-patterns/',
                 linkText: 'Design patterns',
                 description: "A collection of design patterns."
+            },
+            {
+                link: 'https://codyhouse.co/ds/components',
+                linkText: 'Codyhouse',
+                description: "CodyHouse UI is a collection of web components that can help you create websites faster and better."
             }
         ]
     },
