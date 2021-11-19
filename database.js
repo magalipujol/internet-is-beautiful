@@ -65,61 +65,27 @@ let pages = [
         ]
     },
     {
-        sectionId: "webdev-design-content",
+        sectionId: "frameworks-libraries-content",
         contents: [
-            {link: "https://www.magicpattern.design/",
-             linkText: "Magic Pattern",
-             description: "Generate unlimited high quality background graphics."
+            {
+                link: 'https://sortablejs.github.io/Sortable/',
+                linkText:'SortableJS',
+                description: 'JavaScript library for reorderable drag-and-drop lists'
             },
             {
-                link: "https://unsplash.com/t/interiors",
-                linkText: "Unsplash",
-                description: "Good quality free images, and it has a great API"
+                link: 'https://scrollmagic.io/',
+                linkText: 'Scroll Magic',
+                description: 'ScrollMagic helps you to easily react to the user\'s current scroll position.'
             },
             {
-                link: "https://undraw.co/",
-                linkText: "Undraw",
-                description: "Open-source illustrations for any idea you can imagine and create."
+                link: 'https://animate.style/',
+                linkText: 'Animate.css',
+                description: 'A set of small, responsive CSS modules that you can use in every web project.'
             },
             {
-                link: "https://favicon.io/",
-                linkText: "FavIcon",
-                description: "Quickly generate your favicon from text, image, or choose from hundreds of emojis."
-            },
-            {
-                link: "https://fontawesome.com/icons?d=gallery&p=2",
-                linkText: "Font Awesome Icons",
-                description: "The world's most popular and easiest to use icon set."
-            },
-            {
-                link: "https://animate.style/",
-                linkText: "Animate.css",
-                description: "Animate.css is a library of ready-to-use, cross-browser animations for use in your web projects. Great for emphasis, home pages, sliders, and attention-guiding hints."
-            },
-            {
-                link: "https://www.opendoodles.com/?ref=hiddentools",
-                linkText: "Open Doodles",
-                description: "A Free Set of Open-Source Illustrations!"
-            },
-            {
-                link: "https://html5up.net/",
-                linkText: "HTML5 Up",
-                description: "HTML5 site templates that are fully responsive, super cusotomizable and free."
-            },
-            {
-                link: "https://www.svgbackgrounds.com/#flat-mountains",
-                linkText: "SVG backgrounds",
-                description: "SVGs enable full-screen hi-res visuals with a file-size near 5KB and are well-supported by all modern browsers"
-            },
-            {
-                link: "https://www.manypixels.co/gallery",
-                linkText: "Many Pixels",
-                description: "Discover new illustrations every week. Use them on landing pages, blog posts, newsletters, social media graphics and more!"
-            },
-            {
-                link: 'https://colorhunt.co/palettes',
-                linkText:'Color hunt',
-                description: 'Color Palettes for Designers and Artists'
+                link: 'https://bulma.io/',
+                linkText: 'Bulma',
+                description: 'Bulma is a free, open source framework that provides ready-to-use frontend components that you can easily combine to build responsive web interfaces. '
             }
         ]
     },
